@@ -62,3 +62,7 @@ class Test:
             self.tv1.mute()
             self.tv1.volume_down()
             assert self.tv1.__str__() == 'Power = True, Channel = 0, Volume = 0'
+
+
+
+
